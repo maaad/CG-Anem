@@ -32,7 +32,7 @@ sensor:
     sensors:
       - name: "Temperature"
         id: temperature
-        unit_of_measurement: C
+        unit_of_measurement: °C
         state_class: measurement
       - name: "AirFlow Rate"
         unit_of_measurement: m/s
