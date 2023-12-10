@@ -17,7 +17,7 @@ esphome:
    - Wire
    - "climateguard/ClimateGuard CG Anem"
  includes:
-   - RadSens1v2/_cgAnem.h
+   - CG-Anem/_cgAnem.h
 
  i2c:
 
