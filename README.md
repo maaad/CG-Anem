@@ -34,18 +34,23 @@ sensor:
         id: temperature
         unit_of_measurement: °C
         state_class: measurement
+        accuracy_decimals: 1
       - name: "AirFlow Rate"
         unit_of_measurement: m/s
         state_class: measurement
+        accuracy_decimals: 1
       - name: "Air Consumption"
         unit_of_measurement: m^3/hour
         state_class: measurement
+        accuracy_decimals: 1
       - name: "Max AirFlow Rate"
         unit_of_measurement: m/s
         state_class: measurement
+        accuracy_decimals: 1
       - name: "Min AirFlow Rate"
         unit_of_measurement: m/s
         state_class: measurement
+        accuracy_decimals: 1
 ```
 
 ## References
