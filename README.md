@@ -1,4 +1,3 @@
-
 ## Description
 
 ESPHome custom component sensor for Climateguard thermoanemometer CG-Anem.
@@ -54,6 +53,8 @@ sensor:
 ```
 
 ## References
+
+[External_component for cg-anem](https://github.com/alexi-t/esphome-cg-anem/tree/cg_anem) 
 
 [Official CG-Anem library by ClimateGuard](https://github.com/climateguard/CG-Anem)
 
