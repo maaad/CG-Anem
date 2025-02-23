@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Migrate to external component pls. E.g. https://github.com/alexi-t/esphome-cg-anem/tree/cg_anem
+
 ## Description
 
 ESPHome custom component sensor for Climateguard thermoanemometer CG-Anem.
